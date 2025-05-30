@@ -1,0 +1,11 @@
+{
+"the_cat": "The Cat",
+"dogs": {
+       "pitbull": "A pitbull",
+       "collie": "A collie",
+       "testArray" : [
+         "item1",
+         "item2"
+       ]
+  }
+}
