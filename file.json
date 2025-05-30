@@ -3,9 +3,9 @@
 "dogs": {
        "pitbull": "A pitbull",
        "collie": "A collie",
-       "testArray" : [
-         "item1",
-         "item2"
+       "small_dogs": [
+               "poodle", 
+               "A teacup poodle"
        ]
   }
 }
