@@ -1,11 +1,6 @@
 {
-"the_cat": "The Cat",
-"dogs": {
-       "pitbull": "A pitbull",
-       "collie": "A collie",
-       "small_dogs": [
-               "poodle", 
-               "A teacup poodle"
-       ]
-  }
+"testArray" : [
+   "item1",
+   "item2"
+]
 }
